@@ -65,6 +65,15 @@ form {
     cursor: pointer;
 }
 
+.input-login {
+    width: 300px;
+    height: 32px;
+    padding: 0 8px;
+    background-color: transparent;
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+}
+
 footer{
     display: flex;
     justify-content: center;
